@@ -1,0 +1,17 @@
+This project aims at building a cheap strip heater with
+parts that are easy to source.
+
+A strip heater heats a thermo formable material (plexiglass
+...) along a line so that the material can be bent along this
+line. This is useful to rapidly make parts for personnal
+projects, such as enclosures, robotics or decorative elements.
+
+After some research, I found a project whose design perfectly
+matches what I had in mind:
+http://www.circuitbenders.fr/index.php?option=com_content&view=article&id=76:essai-thermo-plieuse&catid=40:regis&Itemid=59
+I reused this design as the basis, but plan to extend or add
+some elements. Especially, add a bend angle limiting mechanism
+and a different current controller.
+
+The bill of materials can be found here:
+doc/bom
